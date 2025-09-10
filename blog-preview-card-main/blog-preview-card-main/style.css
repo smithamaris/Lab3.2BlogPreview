@@ -19,10 +19,20 @@ body {
     
 }
 
-card-container {
+.card-container {
     width: 320px;
     background-color: white;
     padding: 16px;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 6px 6px 0 #000
+
+}
+
+.card-image {
+    width: auto;
+    
+
 }
 
 
